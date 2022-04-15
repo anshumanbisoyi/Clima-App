@@ -1,7 +1,5 @@
 # Clima ☁
 
-## Our Goal
-
 We learnt about api calling, json decoding, asynchronous programming in Dart. We looked at how to carry out time consuming tasks such as getting device location and networking to get data from the internet. 
 
 
